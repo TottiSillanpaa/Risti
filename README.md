@@ -1,2 +1,0 @@
-# Risti
-Created with CodeSandbox
